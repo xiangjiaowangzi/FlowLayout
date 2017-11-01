@@ -2,12 +2,12 @@
 
 本项目用作练习FlexboxLayout，并在此基础上进行修改；
 
-##FlexboxLayout ##
+FlexboxLayout介绍：
 
-##父 属性介绍 ##
+##父属性介绍##
 
 
-### flexWrap     ###
+### flexWrap ###
 属性表示换行与否，默认为noWrap
 
 wrap ：自动换行
