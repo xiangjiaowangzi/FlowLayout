@@ -4,7 +4,7 @@
 
 FlexboxLayout介绍：
 
-##父属性介绍##
+## 父属性介绍 ##
 
 
 ### flexWrap ###
