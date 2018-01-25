@@ -65,4 +65,12 @@ stretch：默认值，表示占满整个副轴
 表示空间不足时子控件的缩放比例，0表示不缩放
 
 
+### layout_wrapBefore ###
+
+强制换行，默认为false，设置为true，为新行的第一个元素
+
+### layout_flexBasisPercent ###
+
+表示设置子元素的长度为它父容器长度的百分比，但是父容器的长度是精确才有效果：MeasureSpec.EXACTLY，默认值时-1
+
 
